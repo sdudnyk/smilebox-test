@@ -1,3 +1,15 @@
+## Task:
+Create a movie catalogue based on [http://www.omdbapi.com/](http://www.omdbapi.com/). the app would consist of 2 pages - catalogue, and movie page
+In the main screen you'll have an input and a grid. by typing a name of a movie, you'll access the api and get list of movies with their posters in a grid
+by clicking a movie, you'll be redirected to another page that specifies the movie details
+you are free to make your style decisions or your own. Only request is to have the movies in a grid, 5 movies in a row on desktop, 2 movies in a row on mobile. have few things on your mind: 
+* breaking the code to relevant components.
+* routing the application correctly, so it would maintain the current page on refresh
+* performance, performance, performance
+
+##
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
